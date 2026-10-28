@@ -7,6 +7,11 @@ the live site.
 
 ## Running the tests
 
+To Install the Dependencies
+```sh
+npm init playwright@latest
+```
+
 ```sh
 npm run test
 ```
